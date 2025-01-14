@@ -1,0 +1,29 @@
+{
+    "F05": "F05",
+    "app_title": "テンプレートアプリ",
+    "home": "ホーム",
+    "start_listening": "リスニング開始",
+    "press_back_again_to_exit_app": "もう一度押してアプリを終了",
+
+    "F10": "F10",
+    "settings": "設定",
+    "language": "言語",
+    "theme": "ダークテーマ",
+    "light": "ライト",
+    "dark": "ダーク",
+    "choose_language": "言語を選択",
+    "traditional_chinese": "繁體中文",
+    "english": "English",
+    "japanese": "日本語",
+    "username": "ユーザー名",
+
+    "F20": "F20",
+    "draft_list": "草稿リスト",
+
+    "all_type": "",
+    "data_not_found": "データが見つかりません",
+    "internet_fail": "インターネット接続に失敗しました",
+    "server_error": "サーバーエラー",
+    "unknown_error": "未知のエラー",
+    "code": "コード"
+  }

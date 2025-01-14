@@ -1,0 +1,30 @@
+{
+    "F05": "F05",
+    "app_title": "Template App",
+    "home": "Home",
+    "start_listening": "Start Listening",
+    "press_back_again_to_exit_app": "Press back again to exit app",
+
+    "F10": "F10",
+    "settings": "Settings",
+    "language": "Language",
+    "theme": "Dark Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "choose_language": "Choose Language",
+    "traditional_chinese": "繁體中文",
+    "english": "English",
+    "japanese": "日本語",
+    "username": "Username",
+
+    "F20": "F20",
+    "draft_list": "Draft List",
+
+    "all_type": "",
+    "internet_fail": "Internet fail",
+    "data_not_found": "Data not found",
+    "server_error": "Server error",
+    "unknown_error": "Unknown error",
+    "code": "Code"
+
+  }

@@ -1,0 +1,47 @@
+name: story_maker
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8 # For icons
+  rhino_flutter: ^3.0.4 # For voice recognition
+  flutter_bloc: ^8.1.6 # For state management
+  flutter_zoom_drawer: ^3.2.0 # For drawer
+  easy_localization: ^3.0.7 # For localization
+  shared_preferences: ^2.3.5 # For shared preferences
+  go_router: ^14.6.3 # For routing
+  dio: ^5.7.0 # For network requests
+  equatable: ^2.0.7 # For equality checking
+  fpdart: ^1.1.1 # For functional programming
+  logger: ^2.5.0 # For logging
+  get_it: ^8.0.3 # For dependency injection
+  flutter_dotenv: ^5.2.1 # For environment variables
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  bloc_test: ^9.1.7 # For testing state management
+  mockito: ^5.4.0 # For testing
+  mocktail: ^1.0.3 # For testing
+  build_runner: ^2.4.10 # For some code generation
+  
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/translations/
+    - assets/pico_context/
+    - assets/pico_context/android/
+    - assets/pico_context/ios/
+    - .env
